@@ -11,6 +11,9 @@ This repository contains resources to learn Low Level Design(LLD) / Machine Codi
 - [Design URL Shortner](problems/UrlShortner)
 - [Design Bloom Filter](problems/BloomFilter)
 
+## Design Patterns
+- [Strategy Pattern](design_patterns/StrategyPattern)
+
 
 ## 📚 Books
 - [Head First Design Patterns](https://amzn.to/3AmTYEN)
